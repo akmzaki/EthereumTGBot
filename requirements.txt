@@ -1,0 +1,6 @@
+aioify
+Pyrogram
+requests
+bs4
+TgCrypto
+lxml
